@@ -1,1 +1,1 @@
-# Vue.JS SDE ETI Tutorial Project
+# React.JS SDE ETI Tutorial Project
